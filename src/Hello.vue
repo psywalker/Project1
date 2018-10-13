@@ -1,7 +1,7 @@
 <template>
   <div>
     <input v-model="msg">
-    <div>Hello {{msg}}</div>
+    <div>Hello {{msg}} !!!</div>
   </div>
 </template>
 
